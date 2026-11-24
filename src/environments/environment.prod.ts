@@ -1,4 +1,4 @@
-// Used by `npm run build`. Change this to your deployed API address.
+// Used by npm run build
 export const environment = {
-  apiUrl: 'https://your-api.example.com/api',
+  apiUrl: 'https://utsav-calender-backend.vercel.app/api',
 };
